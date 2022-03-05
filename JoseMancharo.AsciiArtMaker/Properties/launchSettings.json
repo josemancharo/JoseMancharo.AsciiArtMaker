@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    },
+    "LamanLemuel": {
+      "commandName": "Project",
+      "commandLineArgs": "--file \"Laman_Lemuel_murmur_2.jpg\""
+    }
+  }
+}
