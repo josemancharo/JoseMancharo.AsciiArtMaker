@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoseMancharo.AsciiArtMaker", "JoseMancharo.AsciiArtMaker\JoseMancharo.AsciiArtMaker.csproj", "{ACA2C68B-352D-48D1-ADF6-559E42EAA89A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoseMancharo.AsciiArtMaker", "JoseMancharo.AsciiArtMaker\JoseMancharo.AsciiArtMaker.csproj", "{ACA2C68B-352D-48D1-ADF6-559E42EAA89A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A95D3E2-B8BB-4284-8D0A-3165204E464A}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoseMancharo.IdenticonGenerator", "JoseMancharo.IdenticonGenerator\JoseMancharo.IdenticonGenerator.csproj", "{543AFEAA-FA6B-4D41-918C-B8FD5E080804}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +22,10 @@ Global
 		{ACA2C68B-352D-48D1-ADF6-559E42EAA89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACA2C68B-352D-48D1-ADF6-559E42EAA89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACA2C68B-352D-48D1-ADF6-559E42EAA89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543AFEAA-FA6B-4D41-918C-B8FD5E080804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543AFEAA-FA6B-4D41-918C-B8FD5E080804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543AFEAA-FA6B-4D41-918C-B8FD5E080804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543AFEAA-FA6B-4D41-918C-B8FD5E080804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

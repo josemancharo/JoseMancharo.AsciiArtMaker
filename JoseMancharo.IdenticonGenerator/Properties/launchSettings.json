@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "JoseMancharo.IdenticonGenerator": {
+      "commandName": "Project"
+    },
+    "Test with input": {
+      "commandName": "Project",
+      "commandLineArgs": "ipettingill"
+    }
+  }
+}
